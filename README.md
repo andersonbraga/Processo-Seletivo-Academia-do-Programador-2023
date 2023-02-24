@@ -12,11 +12,16 @@
 ➢ Para construir um triângulo é necessário que a medida de qualquer um dos lados seja menor que a soma dos outros dois lados.
 ➢ Caso algum comprimento dos lados do triângulo for inválido, escrever a mensagem “Triangulo Inválido”
 
+-Teste 02 a ser resolvido:
+°Junior cuida do estoque de equipamentos na empresa onde trabalha. E sempre controla o inventário dos seus equipamentos e as manutenções que eles já sofreram em uma planilha do Excel. Desta forma, ele resolveu pedir ajuda do ao futuro participante (a) da Academia do Programador no desenvolvimento de um Software para automatizar o seu serviço.
+°1. Controle de Equipamentos
+°2. Controle de Chamados
+°Requisito 2.1: Como funcionário Junior quer ter a possibilidade de registrar os chamados de manutenções que são efetuadas nos equipamentos registrados
 
 
 # Como Usa:
 
-° Foi utilizado o VSCODE para desenvolver os codigos dos exercicios
+° Foi utilizado o VSCODE para desenvolver os codigos dos exercicios.
 ° Ultima SDK e ferramentas pode ser baixado no site https://dot.net/core.
 - Você vai precissar da ultima versão do Vscode 2023 junco com .NET Core SDK.
 - Ultima SDK e ferramentas pode ser baixado no site https://dot.net/core.
