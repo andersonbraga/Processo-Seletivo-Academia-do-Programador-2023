@@ -1,12 +1,18 @@
-﻿ Console.WriteLine("Hello user. Can you write measurements from first side of triangles ? ");
+﻿ Console.WriteLine("Digita a  primeira medida do triangulo  ");
             double sideA = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Hello user. Can you write measurements from second side of trangles ? ");
+            Console.WriteLine("Digite a segunda medida do triangulo ");
             double sideB = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Hello user, Can you write measurements from third side of triangles ? ");
+            Console.WriteLine("Digite a terceira medida do triangulo");
             double sideC = Convert.ToDouble(Console.ReadLine());
           
-
-            if ( sideA == sideB &&  sideA == sideB && sideB == sideC )
+          if( sideA < sideB + sideC)
+          {
+            
+            if(sideB < sideA + sideC)
+            {
+              if(sideC < sideA + sideB)
+              {
+                 if ( sideA == sideB &&  sideA == sideB && sideB == sideC )
                 {
                     Console.WriteLine("Equilateral " );
                 }
@@ -19,3 +25,11 @@
                     Console.WriteLine("Escaleno");
                     
                 }
+              }
+            }
+          }
+          else {
+            Console.WriteLine("Essas medidas não são de um triangulo");
+          }
+
+           
