@@ -1,0 +1,15 @@
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\bin\Debug\net7.0\Triangulo.exe
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\bin\Debug\net7.0\Triangulo.deps.json
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\bin\Debug\net7.0\Triangulo.runtimeconfig.json
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\bin\Debug\net7.0\Triangulo.dll
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\bin\Debug\net7.0\Triangulo.pdb
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\obj\Debug\net7.0\Triangulo.csproj.AssemblyReference.cache
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\obj\Debug\net7.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\obj\Debug\net7.0\Triangulo.AssemblyInfoInputs.cache
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\obj\Debug\net7.0\Triangulo.AssemblyInfo.cs
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\obj\Debug\net7.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\obj\Debug\net7.0\Triangulo.dll
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\obj\Debug\net7.0\refint\Triangulo.dll
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\obj\Debug\net7.0\Triangulo.pdb
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\obj\Debug\net7.0\Triangulo.genruntimeconfig.cache
+C:\Academia\Processo Seletivo Academia do Programador 2023\Teste01\Triangulo\obj\Debug\net7.0\ref\Triangulo.dll
